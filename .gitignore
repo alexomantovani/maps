@@ -25,3 +25,23 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+#VSCode
+.vscode/
+
+#metadata
+.metadata
+
+#idea
+.idea/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Windows folder configuration files
+ehthumbs.db
+ehthumbs_vista.db
+
+# Windows shortcuts
+*.lnk
